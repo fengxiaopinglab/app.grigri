@@ -1,0 +1,14 @@
+PODS:
+  - AVOSCloud (2.6.9)
+  - AVOSCloudSNS (2.6.9):
+    - AVOSCloud
+
+DEPENDENCIES:
+  - AVOSCloud
+  - AVOSCloudSNS
+
+SPEC CHECKSUMS:
+  AVOSCloud: 95d08c0a30b75f7dda78f96fcbe2f1cb8f690d71
+  AVOSCloudSNS: 5ace8a5b0094fe1eb3f9a8649c84512337297d04
+
+COCOAPODS: 0.34.4
